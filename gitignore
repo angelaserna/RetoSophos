@@ -2,6 +2,11 @@
 # Created by https://www.gitignore.io/api/java,linux,macos,gradle,windows,android,eclipse,netbeans,intellij,intellij+all,intellij+iml
 # Edit at https://www.gitignore.io/?templates=java,linux,macos,gradle,windows,android,eclipse,netbeans,intellij,intellij+all,intellij+iml
 
+*/.gradle/
+*/.idea
+*/.settings
+
+
 ### Custom ###
 target/
 logs/
@@ -362,7 +367,7 @@ hs_err_pid*
 
 ### macOS ###
 # General
-.DS_Store
+*/.DS_Store
 .AppleDouble
 .LSOverride
 
