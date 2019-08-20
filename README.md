@@ -83,3 +83,4 @@ El codigo se encuentra documentado y la generación del Documento se realizo con
 
 Para correr el proyecto se necesita Java JDK 1.8 y Gradle versión 4.7. o posterior.
 
+# RetoSophos
